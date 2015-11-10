@@ -1,0 +1,12 @@
+Package: modeltools
+Title: tools for modeling
+Version: 0.1
+Imports:
+    methods
+Maintainer: Lifei Wang <lwang@gmri.org>
+Author: Lifei Wang <lwang@gmri.org>
+URL: https://github.com/Lifei-Wang/modeltools
+License: GPL (>=2)
+Collate:
+    'maxent_utils.R'
+RoxygenNote: 5.0.0
